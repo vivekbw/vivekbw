@@ -1,5 +1,5 @@
 ## Hi, I'm Vivek Bhardwaj 👋 
-<br><br>
+
 <img src="banner.png"></img>
 
 ### Whats Next?
