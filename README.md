@@ -1,4 +1,4 @@
-#👋 Vivek Bhardwaj
+## 👋 Hi, I'm Vivek Bhardwaj
 
 ### Whats Next?
 * CS/BBA @ UW/WLU '26
