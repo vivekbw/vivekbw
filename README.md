@@ -1,6 +1,7 @@
 # Vivek Bhardwaj
 
 ### Whats Next?
+* CS/BBA @ UW/WLU '26
 * Incoming **Innovation Developer** at RBC
 * Working on side projects!
 
