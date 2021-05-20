@@ -3,7 +3,7 @@
 <img src="banner.png"></img>
 
 ### Whats Next?
-* 🎓 CS/BBA @ UW/WLU '26
+* 🎓 Incoming Computer Science Student at the University of Waterloo
 * 🦁 Incoming **Innovation Developer** at RBC
 * 😋 Working on interesting projects!
 
