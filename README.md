@@ -1,7 +1,5 @@
 ## Hi, I'm Vivek Bhardwaj 👋 
 
-<img src="banner.png"></img>
-
 ### Whats Next?
 * 🎓 CS BBA @ UW/WLU '26
 * 🦁 Currently an **Innovation Developer** at RBC
