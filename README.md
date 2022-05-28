@@ -2,6 +2,7 @@
 
 ### Whats Next?
 * 🎓 1B - CS BBA @ UW/WLU '26
+* 📱 experimenting with mobile development
 * 🎹 mixing music during my free time!
 * 💻 interning at @ RBC
 
