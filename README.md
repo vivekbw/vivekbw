@@ -1,7 +1,7 @@
 ## Hi, I'm Vivek Bhardwaj 👋 
 
 Currently, I'm...
-* learning scala and distributed systems
+* learning scala and how to build distributed systems
 
 ### Whats Next?
 * 🎓 4th Year - CS BBA @ UW/WLU - Graduating 2026
