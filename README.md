@@ -1,6 +1,6 @@
 ## Hi, I'm Vivek Bhardwaj 👋 
 
-Currently, I'm...
+### Currently, I'm...
 * learning scala and how to build distributed systems
 
 ### Whats Next?
