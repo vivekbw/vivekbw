@@ -2,6 +2,7 @@
 
 ### Currently, I'm...
 * learning scala and how to build distributed systems
+* looking for swe opportunities in the fintech or backend/infra space
 
 ### Whats Next?
 * 🎓 4th Year - CS BBA @ UW/WLU - Graduating 2026
