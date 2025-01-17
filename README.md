@@ -1,7 +1,8 @@
 ## Hi, I'm Vivek Bhardwaj 👋 
 
 ### Currently, I'm...
-* incoming @ shopify & coinbase asset management
+* currently @ shopify, helping expand [shop pay](https://shop.app/) to millions of buyers across the world
+* incoming @ coinbase asset management
 * learning scala and how to build distributed systems
 * looking for swe opportunities in the fintech or backend/infra space
 
