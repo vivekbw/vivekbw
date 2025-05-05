@@ -1,8 +1,7 @@
 ## Hi, I'm Vivek Bhardwaj 👋 
 
 ### Currently, I'm...
-* currently @ shopify, helping expand [shop pay](https://shop.app/) to millions of buyers across the world
-* incoming @ palantir
+* currently @ palantir
 * learning scala and how to build distributed systems
 * looking for swe opportunities in the fintech or backend/infra space
 
